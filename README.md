@@ -6,8 +6,7 @@ races.csv
 results.csv
 circuits.csv
 driver.csv
-dosyaları okutularak birleştirildi.
-tabloda eksik satırlar, veriler düzenlendi. Gerek olmayan sütunlar kaldırıldı.
+dosyaları okutularak işlem yapıldı
 
 Bu uygulamada amaç, F1 sürücüsünün belirtilen yılda, pistte ve başlangıç pozisyonunda 
 kaçıncı olabileceğini tahmin etmeye çalışmaktır.
