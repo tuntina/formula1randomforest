@@ -13,3 +13,4 @@ Girilen csv dosyaları :
 * driver.csv
 
 
+Fakat formula1 yarışlarında yarışa etki eden birçok faktör bulunuyor (araç,lastik vs.). Bu yüzden bu modelde yüzde 20 doğruluk vermiş oldu.
